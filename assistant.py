@@ -50,7 +50,7 @@ def run_LUCY():
 
     elif "who is Pragnya" in command or "who is Pragnya" in command:
         info = (
-            "Pragnya, currently pursuing 3rd year engineering student at navodaya institute of technology "
+            "Pragnya, currently a engineering student. In a Computer science branch.  "
         )
         talk(info)
 
