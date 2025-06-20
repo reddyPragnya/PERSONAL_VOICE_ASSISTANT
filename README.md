@@ -30,7 +30,9 @@ You’ll see (venv) in your terminal – that means you’re good to go!
 Run the following command to install all dependencies: <br> <br>
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
 <hr>
+
 ![image](https://github.com/user-attachments/assets/9ea92973-f365-4145-8ee9-aeba4571b6d3)
+
 <hr>
 
 # Step 4: Create the Assistant Script
