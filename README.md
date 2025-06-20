@@ -7,6 +7,6 @@
 4. Internet connection for YouTube/Wikipedia
 
 # Step 1: Create Project Folder
-Open VS Code → Create a new folder using the following command <br>
+Open VS Code → Create a new folder using the following command <br><br>
 mkdir voice-desktop-assistant <br>
 cd voice-desktop-assistant
